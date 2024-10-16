@@ -1,0 +1,18 @@
+<div class="flex-container">
+    <div>1</div>
+    <div>2</div>
+    <div>3</div>
+  </div>
+  .flex-container {
+    align-items: stretch | flex-start | flex-end | center | baseline;
+  }.flex-container {
+    align-items: stretch | flex-start | flex-end | center | baseline;
+  } <div class="flex-container">
+    <div class="flex-item">1</div>
+    <div class="flex-item">2</div>
+    <div class="flex-item">3</div>
+  </div>.flex-item {
+    flex-grow: <numero>; /* o valor default(padrão) é 0 */
+  } .flex-item {
+    flex-shrink: <número>; /* o valor padrão é 0 */
+  }
